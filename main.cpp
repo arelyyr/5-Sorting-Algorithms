@@ -1,7 +1,3 @@
-
-// Lab 1 - Basic Sorting Algorithms
-// Program Written By Arely Rosendes
-// Program Finished February 15, 2023
 #include <iostream>
 #include <fstream>
 #include <vector>
